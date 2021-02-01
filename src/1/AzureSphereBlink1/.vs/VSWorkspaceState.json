@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HardwareDefinitions",
+    "\\HardwareDefinitions\\avnet_mt3620_sk",
+    "\\HardwareDefinitions\\avnet_mt3620_sk\\inc",
+    "\\HardwareDefinitions\\avnet_mt3620_sk\\inc\\hw"
+  ],
+  "SelectedNode": "\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}
